@@ -72,6 +72,7 @@ Goodbye!
 Start the sshd manually:
 
 ```
+root@crashplan_1:/ # sysrc sshd_enable=YES
 root@crashplan_1:/ # service sshd start
 ...
 ```
